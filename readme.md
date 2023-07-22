@@ -10,7 +10,7 @@ A simple keylogger written in Python using the tkinter and pynput libraries.
 
 ## Installation
 
-pip install tkinter pynput
+pip3 install tkinter pynput
 
 Usage
 Run the keylogger.py file.
