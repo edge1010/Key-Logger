@@ -23,3 +23,5 @@ Please feel free to contribute to this project by submitting bug reports, featur
 
 Changelog
 2023-07-22: Initial release.
+License
+This project is licensed under the MIT License.
